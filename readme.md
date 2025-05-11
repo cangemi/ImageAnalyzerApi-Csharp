@@ -36,6 +36,11 @@ API para análise de imagens utilizando um modelo de linguagem conectado ao serv
 ## Observações
 
 - Certifique-se que o Ollama esteja rodando em `http://localhost:11434/`.
+
+## Autor
+
+- Pedro cangemi
+- https://www.linkedin.com/in/pedro-cangemi/
 - Ajuste o `BaseAddress` em `AnalyzeController` se necessário.
 - O modelo deve ser compatível com entrada de imagens.
 
