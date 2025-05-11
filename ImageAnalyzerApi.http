@@ -1,0 +1,6 @@
+@ImageAnalyzerApi_HostAddress = http://localhost:5049
+
+GET {{ImageAnalyzerApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
